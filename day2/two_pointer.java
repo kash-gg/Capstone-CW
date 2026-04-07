@@ -1,3 +1,4 @@
+package day2;
 public class two_pointer {
 
     public boolean isPalindrome(String s) {
